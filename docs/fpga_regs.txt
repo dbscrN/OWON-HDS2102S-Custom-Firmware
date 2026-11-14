@@ -1,0 +1,139 @@
+﻿REGTAB @0x08047ec8: id -> FPGA register index (bus address = 0x60000000 + (index << 17))
+imm       reg 0xf9: wr16[08044660]
+imm       reg 0xfa: wr16[08044750]
+id 0x01 -> reg 0x02: wr16[0803cc5c]
+id 0x0c -> reg 0x59: wr16[08015ebc]
+id 0x0e -> reg 0x5a: wr16[08015ebc]
+id 0x10 -> reg 0x14: wr16[08015f48]
+id 0x11 -> reg 0x12: wr32[08015f48]
+id 0x12 -> reg 0x10: wr16[080421dc]
+id 0x13 -> reg 0x2d: wr16[08040598]
+id 0x14 -> reg 0x3e: rd16s[0804132c]
+id 0x17 -> reg 0x11: wr16[0803fee0 080400b0 080421dc 080424bc]
+id 0x1a -> reg 0x3c: rd16s[080217b0 0803aae0 0803ab7c 0803c058 0803c1b4]
+id 0x1b -> reg 0x30: wr16[08015c94]
+id 0x1d -> reg 0x27: wr16[0802f54c 0803c4c0]
+id 0x1f -> reg 0x29: wr16[08012a54]
+id 0x20 -> reg 0x2a: wr16[08012960]
+id 0x21 -> reg 0x58: wr16[08012960 08012a24 080282b8 0803c4c0 0803c524]
+id 0x22 -> reg 0x2e: wr16[0802ecec]
+id 0x23 -> reg 0x2f: wr16[08042c5c]
+id 0x25 -> reg 0x2b: wr16[0800eb0c]
+id 0x27 -> reg 0x26: wr16[08040a3c 080421dc]
+id 0x29 -> reg 0x31: wr32[08042c5c]
+id 0x2b -> reg 0x33: wr16[0803c4c0]
+id 0x2c -> reg 0x35: wr16[0803c1b4 0803c4c0]
+id 0x2d -> reg 0x34: wr16[0803c4c0]
+id 0x2e -> reg 0x36: wr16[0803c1b4 0803c4c0]
+id 0x30 -> reg 0x37: wr16[08012a54]
+id 0x31 -> reg 0x38: wr16[08012a54]
+id 0x35 -> reg 0x3a: wr16[080242c4 0803fee0 080400b0]
+id 0x39 -> reg 0x4d: wr16[080242c4 0803fee0 080400b0]
+id 0x3a -> reg 0x39: wr16[080242c4]
+id 0x3c -> reg 0x60: wr16[080421dc]
+id 0x3d -> reg 0x61: wr16[080421dc]
+id 0x3e -> reg 0x17: wr32[080421dc]
+id 0x3f -> reg 0x15: wr32[080421dc]
+id 0x40 -> reg 0x1a: wr32[080421dc]
+id 0x41 -> reg 0x22: wr32[080421dc 080424bc]
+id 0x42 -> reg 0x1c: wr32[080421dc 080424bc]
+id 0x43 -> reg 0x1e: wr32[080421dc 080424bc]
+id 0x44 -> reg 0x25: wr16[080421dc 080424bc]
+id 0x45 -> reg 0x20: wr32[080421dc 080424bc]
+id 0x46 -> reg 0x3f: rd16s[08040b14]
+id 0x47 -> reg 0x24: wr16[080421dc]
+id 0x4f -> reg 0x6c: wr16[080421dc]
+id 0x50 -> reg 0x6d: wr16[080421dc]
+id 0x51 -> reg 0x6e: wr16[080421dc]
+id 0x52 -> reg 0x6f: wr16[080421dc]
+id 0x53 -> reg 0x70: wr16[080421dc]
+id 0x54 -> reg 0x71: wr16[080421dc]
+id 0x55 -> reg 0x72: wr16[08042b8c]
+id 0x56 -> reg 0x73: wr16[08042b8c]
+id 0x57 -> reg 0x74: wr16[08042b8c]
+id 0x58 -> reg 0x75: wr16[08033b60]
+id 0x6e -> reg 0x2c: wr16[0800e9bc 0800ea7c 080247b4 08027b9c]
+id 0x6f -> reg 0x49: rd16s[080445cc]
+id 0x70 -> reg 0xa5: wr16[080410a0]
+id 0x71 -> reg 0xa0: wr16[080410a0]
+id 0x72 -> reg 0xa1: wr32[080410a0]
+id 0x73 -> reg 0xa4: rd16s[080410a0]
+id 0x74 -> reg 0xa3: rd16[080410a0]
+id 0x75 -> reg 0xaa: wr16[08014fe8 08019744]
+id 0x77 -> reg 0xab: wr16[0801506c 08022604 0802eaac 0802eaf4 0802fba0 080417d0]
+id 0x78 -> reg 0x76: wr16[0801e6ec]
+id 0x79 -> reg 0xa6: wr16[08033b40]
+id 0x7a -> reg 0xad: wr16[0802e0a8 080329f0]
+id 0x7b -> reg 0x03: wr16[080217b0 080282b8 0802d510 0803c4c0 080421dc]
+id 0x7c -> reg 0xae: wr16[0800e3bc 08010c30 08016048]
+id 0x7d -> reg 0x7f: wr16[0800e3bc 08010c30 08016048]
+id 0x7e -> reg 0x80: wr48[0800f104 0801be0c 0801bfec 0801fb50 0801fcd8]
+id 0x82 -> reg 0x54: wr16[0801e70c]
+id 0x83 -> reg 0x56: wr16[0801e70c]
+id 0x84 -> reg 0x5b: wr16[0801e70c]
+id 0x85 -> reg 0x83: wr16[08015678]
+id 0x86 -> reg 0x84: wr16[0800f15c 08015678]
+id 0x87 -> reg 0x8b: wr16[08013df0]
+id 0x88 -> reg 0x8c: wr16[08021fa4]
+id 0x89 -> reg 0x8d: wr16[08021fa4]
+id 0x8a -> reg 0x8e: wr16[08021fa4]
+id 0x8b -> reg 0x90: wr16[08029f88 0802a37c 0802a850 0802ad68 0802c3d8 0802c470]
+id 0x8c -> reg 0xb8: wr16[08029f88 0802a37c 0802a850 0802ad68 0802c3d8 0802c470 ...]
+id 0x8d -> reg 0x85: wr48[0801fcd8]
+id 0x8e -> reg 0x88: wr48[0801fcd8]
+id 0x8f -> reg 0xc0: wr16[0802fd38]
+id 0x90 -> reg 0xc1: wr16[0802fd38]
+id 0x91 -> reg 0xc2: wr16[0802fd38]
+id 0x92 -> reg 0xc3: wr16[0802fd38]
+id 0x93 -> reg 0xc4: wr16[0802fd38]
+id 0x94 -> reg 0xc5: wr16[0802fd38]
+id 0x95 -> reg 0xc6: wr16[0802fd38]
+id 0x96 -> reg 0xc7: wr16[0802fd38]
+id 0x97 -> reg 0xc8: wr16[0802fd38]
+id 0x98 -> reg 0xc9: wr16[0802fd38]
+id 0x99 -> reg 0xca: wr16[0802fd38]
+id 0x9a -> reg 0xcb: wr16[0802fd38]
+id 0x9b -> reg 0xcc: wr16[0802fd38]
+id 0x9c -> reg 0xcd: wr16[0802fd38]
+id 0x9d -> reg 0xd0: wr16[08027b9c 08027c68 0803069c 08030aa8]
+id 0x9e -> reg 0xd1: wr16[08027b9c 08027c68 0802fc70 0803069c 08030aa8 0803919c ...]
+id 0xc1 -> reg 0xfe: wr32[0800e004 0803d460]
+id 0xc2 -> reg 0xf9: wr32[0803d364]
+id 0xc3 -> reg 0xfa: wr32[080160f8]
+id 0xc6 -> reg 0xfc: wr16[08040bd4 080421a8 0804453c]  wr32[08040bd4 0804453c]
+id 0xc8 -> reg 0xf8: wr16[0803f250]
+--- calls with computed register index (function: count) ---
+  wr16 in fn_08015ebc x2
+  wr16 in fn_0801e424 x1
+  wr16 in fn_0801e680 x1
+  wr16 in fn_08021468 x2
+  wr16 in fn_080232bc x3
+  wr16 in fn_08023344 x6
+  wr16 in fn_08023574 x20
+  rd16s in fn_08023b18 x1
+  rd16s in fn_08039628 x1
+  rd16s in fn_08039654 x1
+  rd16s in fn_0803982c x4
+  rd32 in fn_08039a24 x1
+  rd16s in fn_0803a7b8 x1
+  rd16s in fn_0803a8a8 x2
+  rd16s in fn_0803a954 x3
+  rd32 in fn_0803a954 x2
+  rd32 in fn_0803aae0 x2
+  rd32 in fn_0803ab7c x2
+  rd16s in fn_0803ac50 x2
+  rd16s in fn_0803acfc x2
+  rd16s in fn_0803ada8 x3
+  rd32 in fn_0803ada8 x2
+  rd32 in fn_0803af64 x1
+  rd16s in fn_0803afec x2
+  rd16s in fn_0803b0bc x1
+  rd16 in fn_0803b62c x1
+  rd16 in fn_0803b660 x1
+  rd16s in fn_0803fe94 x3
+  rd16s in fn_0803fee0 x2
+  wr16 in fn_0803ff98 x2
+  rd16s in fn_080400b0 x2
+  wr16 in fn_080407a8 x2
+  rd16s in fn_08042eb0 x2
+  wr16 in fn_080465c8 x3
